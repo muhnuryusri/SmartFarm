@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartFarm</string>
+    <string name="title_home">Home</string>
+    <string name="title_journal">Journal</string>
+    <string name="title_leaf_analysis">Leaf Analysis</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue maximus risus placerat pulvinar. Donec gravida dolor metus. Nunc laoreet mollis nisi, sit amet venenatis massa egestas a. Cras sodales purus a faucibus tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur non tortor et diam tincidunt interdum. Aenean ac feugiat eros, nec varius dui. Cras id ipsum mi. Donec vel pretium leo. Sed leo sapien, euismod vel tellus id, sodales pretium lacus.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
