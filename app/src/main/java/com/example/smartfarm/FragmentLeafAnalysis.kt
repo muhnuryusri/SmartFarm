@@ -28,7 +28,7 @@ class FragmentLeafAnalysis : Fragment() {
     private val mInputSize = 224
     private val mModelPath = "model.tflite"
     private val mLabelPath = "disease_labels.txt"
-    private val mSamplePath = "rice_leaf.jpg"
+    private val mSamplePath = "brown_spot.jpg"
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
