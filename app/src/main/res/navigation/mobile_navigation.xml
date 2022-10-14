@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_leaf_analysis">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.smartfarm.FragmentHome"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_journal"
+        android:name="com.example.smartfarm.FragmentJournal"
+        android:label="@string/title_journal"
+        tools:layout="@layout/fragment_journal" />
+
+    <fragment
+        android:id="@+id/navigation_leaf_analysis"
+        android:name="com.example.smartfarm.FragmentLeafAnalysis"
+        android:label="@string/title_leaf_analysis"
+        tools:layout="@layout/fragment_leaf_analysis" />
+</navigation>
